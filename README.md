@@ -3,7 +3,7 @@
 ## Packages
 
 ### [GPSit](https://github.com/seanchen607/GPSit) 
-a simple and automated method to do phylogenomic reconstruction
+a simple and automated pipeline for phylogenomic reconstruction
 
 ### [FScanR](https://github.com/seanchen607/FScanR)
 an R package to detect Programmed Ribosomal Frameshifting (PRF) events from mRNA/cDNA

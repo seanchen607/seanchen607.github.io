@@ -12,7 +12,7 @@ an R package to detect Programmed Ribosomal Frameshifting (PRF) events from mRNA
 an R package to compare the genetic/epigenetic features between cancer cell lines with different dependencies of a gene set (signature)
 
 
-## :pencil2: Contact author
+## Contact author
 
 Xiao CHEN, PhD
 

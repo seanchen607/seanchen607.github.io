@@ -16,7 +16,11 @@ an R package to compare the genetic/epigenetic features between cancer cell line
 
 Xiao CHEN, PhD
 
+[**Lu Lab**](https://chaolulab.com/)
+
 Herbert Irving Comprehensive Cancer Center, Columbia University Medical Center, New York
 
-<https://www.researchgate.net/profile/Xiao_Chen126>
+<a href="mailto:seanchen607@gmail.com" style="display:block"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/envelope-bigger-gmail-50px.png" /></a>
+<a href="https://github.com/seanchen607" target="_blank" style="display:block"><img src="https://raw.githubusercontent.com/ryanoasis/email-signature/master/github-bigger-alt-50px.png" alt="GitHub" /></a>
+<a href="https://www.researchgate.net/profile/Xiao_Chen126" target="_blank" style="display:block"><img src="https://www.researchgate.net/favicon.ico" height="23" /></a>
 
